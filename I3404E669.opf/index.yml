@@ -1,0 +1,119 @@
+id: c1d1a8c8dc794e9c92af5509d794a826
+annotation_type: index
+revision: '00001'
+annotations:
+  abb9b3f8fd4b4496ba2fabe814407434:
+    base: AFBC.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 8
+    - title: Introduction
+      span:
+        start: 9
+        end: 35
+    - title: §1
+      span:
+        start: 36
+        end: 153
+    - title: §2
+      span:
+        start: 154
+        end: 345
+    - title: §3
+      span:
+        start: 346
+        end: 591
+    - title: §4
+      span:
+        start: 592
+        end: 745
+    - title: §5
+      span:
+        start: 746
+        end: 808
+    - title: §6
+      span:
+        start: 809
+        end: 988
+    - title: §7
+      span:
+        start: 989
+        end: 1648
+    - title: §8
+      span:
+        start: 1649
+        end: 1863
+    - title: §9
+      span:
+        start: 1864
+        end: 1988
+    - title: §10
+      span:
+        start: 1989
+        end: 2152
+    - title: §11
+      span:
+        start: 2153
+        end: 2641
+    - title: §12
+      span:
+        start: 2642
+        end: 2933
+    - title: §13
+      span:
+        start: 2934
+        end: 3100
+    - title: §14
+      span:
+        start: 3101
+        end: 3288
+    - title: §15
+      span:
+        start: 3289
+        end: 3609
+    - title: §16
+      span:
+        start: 3610
+        end: 3894
+    - title: §17
+      span:
+        start: 3895
+        end: 4098
+    - title: §18
+      span:
+        start: 4099
+        end: 4278
+    - title: §19
+      span:
+        start: 4279
+        end: 4399
+    - title: §20
+      span:
+        start: 4400
+        end: 4787
+    - title: §21
+      span:
+        start: 4788
+        end: 4934
+    - title: §22
+      span:
+        start: 4935
+        end: 5038
+    - title: §23
+      span:
+        start: 5039
+        end: 5089
+    - title: §24
+      span:
+        start: 5090
+        end: 5108
+    - title: §25
+      span:
+        start: 5109
+        end: 5143
+    - title: Colophon
+      span:
+        start: 5144
+        end: 5157

@@ -1,0 +1,16 @@
+id: I3404E669
+default_language: zh
+source: https://www2.hf.uio.no/polyglotta/index.php?page=library&bid=2
+initial_creation_type: input
+imported: 2023-02-08 14:56:24.194748
+last_modified: 2023-02-08 14:56:24.194864
+source_metadata:
+  title: Bodhisatvacaryānirdeśa
+  language: zh
+bases:
+  AFBC:
+    base_file: AFBC.txt
+    order: 1
+copyright:
+  status: Unknown
+  notice: ''
